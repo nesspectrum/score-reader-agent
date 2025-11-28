@@ -1,0 +1,2297 @@
+{
+  "description": "Bach Prelude in C Major (BWV 846) - Arpeggio pattern example",
+  "key": "C Major",
+  "tempo": "112",
+  "measures": [
+    {
+      "id": 1,
+      "right_hand": [
+        {
+          "notes": [
+            "C5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "right_hand": [
+        {
+          "notes": [
+            "D5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "right_hand": [
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "right_hand": [
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "right_hand": [
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "right_hand": [
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "right_hand": [
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "right_hand": [
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "right_hand": [
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "right_hand": [
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "right_hand": [
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "right_hand": [
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "right_hand": [
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C8"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "right_hand": [
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D8"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C8"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "right_hand": [
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E8"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D8"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "right_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "E4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "right_hand": [
+        {
+          "notes": [
+            "D4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "F4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "right_hand": [
+        {
+          "notes": [
+            "E4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "G4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "right_hand": [
+        {
+          "notes": [
+            "F4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "A4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "right_hand": [
+        {
+          "notes": [
+            "G4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "B4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "right_hand": [
+        {
+          "notes": [
+            "A4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "C5"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "right_hand": [
+        {
+          "notes": [
+            "B4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "D5"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "right_hand": [
+        {
+          "notes": [
+            "C5"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "right_hand": [
+        {
+          "notes": [
+            "D5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "right_hand": [
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "right_hand": [
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "right_hand": [
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "right_hand": [
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "right_hand": [
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B5"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "right_hand": [
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "right_hand": [
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "C7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "A6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "F6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "right_hand": [
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "D7"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "B6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "G6"
+          ],
+          "duration": "eighth"
+        },
+        {
+          "notes": [
+            "E6"
+          ],
+          "duration": "eighth"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "quarter"
+        },
+        {
+          "notes": [
+            "Rest"
+          ],
+          "duration": "quarter"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "right_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "E4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "right_hand": [
+        {
+          "notes": [
+            "G4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "C5"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "right_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "E4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "right_hand": [
+        {
+          "notes": [
+            "F4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "A4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "D3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "right_hand": [
+        {
+          "notes": [
+            "E4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "G4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "E3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "right_hand": [
+        {
+          "notes": [
+            "D4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "F4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "F3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "right_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "half"
+        },
+        {
+          "notes": [
+            "E4"
+          ],
+          "duration": "half"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "G3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "right_hand": [
+        {
+          "notes": [
+            "C4"
+          ],
+          "duration": "whole"
+        }
+      ],
+      "left_hand": [
+        {
+          "notes": [
+            "C3"
+          ],
+          "duration": "whole"
+        }
+      ]
+    }
+  ]
+}

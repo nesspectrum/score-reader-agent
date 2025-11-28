@@ -1,0 +1,12 @@
+google-cloud-aiplatform
+google-generativeai
+google-adk
+numpy
+sounddevice
+pydub
+pillow
+python-dotenv
+soundfile
+librosa
+fastapi
+uvicorn

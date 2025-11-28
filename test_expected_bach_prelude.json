@@ -1,0 +1,47 @@
+{
+  "piece_name": "Prelude in C Major",
+  "composer": "Bach",
+  "key": "C Major",
+  "tempo": "112",
+  "measures": [
+    {
+      "id": 1,
+      "right_hand": [
+        {"notes": ["C5"], "duration": "eighth"},
+        {"notes": ["E5"], "duration": "eighth"},
+        {"notes": ["G5"], "duration": "eighth"},
+        {"notes": ["C6"], "duration": "eighth"},
+        {"notes": ["B5"], "duration": "eighth"},
+        {"notes": ["G5"], "duration": "eighth"},
+        {"notes": ["E5"], "duration": "eighth"},
+        {"notes": ["C5"], "duration": "eighth"}
+      ],
+      "left_hand": [
+        {"notes": ["C3"], "duration": "quarter"},
+        {"notes": ["Rest"], "duration": "quarter"},
+        {"notes": ["C3"], "duration": "quarter"},
+        {"notes": ["Rest"], "duration": "quarter"}
+      ]
+    },
+    {
+      "id": 2,
+      "right_hand": [
+        {"notes": ["D5"], "duration": "eighth"},
+        {"notes": ["F5"], "duration": "eighth"},
+        {"notes": ["A5"], "duration": "eighth"},
+        {"notes": ["D6"], "duration": "eighth"},
+        {"notes": ["C6"], "duration": "eighth"},
+        {"notes": ["A5"], "duration": "eighth"},
+        {"notes": ["F5"], "duration": "eighth"},
+        {"notes": ["D5"], "duration": "eighth"}
+      ],
+      "left_hand": [
+        {"notes": ["D3"], "duration": "quarter"},
+        {"notes": ["Rest"], "duration": "quarter"},
+        {"notes": ["D3"], "duration": "quarter"},
+        {"notes": ["Rest"], "duration": "quarter"}
+      ]
+    }
+  ]
+}
+
