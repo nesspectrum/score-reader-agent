@@ -159,22 +159,6 @@ python create_pdmx_library.py --sample-size 1000
 - User preference learning
 - Caching and deduplication
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🔒 Security
-
-- **Never commit credentials**: All API keys and service account files are excluded via `.gitignore`
-- **Use environment variables**: Store sensitive data in `.env` files (not tracked by git)
-- **Rotate credentials**: If credentials are accidentally exposed, rotate them immediately
-
 ## 📝 License
 
 This project is part of the Nesspectrum Solutions organization.
