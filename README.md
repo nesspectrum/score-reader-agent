@@ -89,23 +89,6 @@ python main.py "find Chopin Prelude"
 python main.py --file /path/to/music-sheet.png
 ```
 
-### Extraction Workflow Mode (Legacy)
-
-For the extraction workflow with audio playback:
-
-```bash
-python main.py /path/to/sheet.png --interactive
-python main.py /path/to/sheet.png --evaluate
-```
-
-### Playground Mode
-
-For experimentation and testing:
-
-```bash
-python playground.py
-```
-
 ## 🏗️ Project Structure
 
 ```
