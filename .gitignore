@@ -60,6 +60,7 @@ memory/
 evaluations/
 voice_samples/
 resources/
+few_shot_examples/
 pdmx_data
 *.db
 agents.db
