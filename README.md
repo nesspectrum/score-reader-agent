@@ -1,0 +1,204 @@
+# 🎵 Sheet Reader Agent
+
+An intelligent AI-powered music assistant that converts music sheet images to MusicXML format, searches extensive music databases, and manages your digital music library using Google's Agent Development Kit (ADK).
+
+## ✨ Features
+
+- **📸 Image to MusicXML Conversion**: Convert music sheet images (PNG, JPG, PDF) to MusicXML format using HOMR (Handwritten Optical Music Recognition)
+- **🔍 Intelligent Music Search**: Search through local PDMX database (250K+ pieces) and Google Cloud Vertex AI Search datastore
+- **📚 Library Management**: Organize and manage your digital music sheet library with metadata extraction
+- **🤖 Multi-Agent Architecture**: Specialized agents for different tasks (Music Assistant, Library Agent, Extraction Agent)
+- **💾 Persistent Memory**: Long-term memory service for learning user preferences and patterns
+- **🎯 Interactive CLI**: User-friendly command-line interface for easy interaction
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Python 3.10+
+- Google Cloud Project with Vertex AI enabled
+- Google API Key or Application Default Credentials
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone git@github.com:nesspectrum/sheet-reader-agent.git
+   cd sheet-reader-agent
+   ```
+
+2. **Create virtual environment:**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Set up environment variables:**
+   ```bash
+   cp .env.example .env  # Create .env file
+   # Edit .env with your credentials
+   ```
+
+   Required environment variables:
+   ```env
+   GOOGLE_CLOUD_PROJECT=your-project-id
+   GOOGLE_CLOUD_LOCATION=us-central1
+   GOOGLE_CLOUD_MODEL=gemini-2.5-flash-lite
+   GOOGLE_API_KEY=your-api-key
+   PDMX_DATASTORE_ID=pdmx-musicxml
+   ```
+
+5. **Set up Google Cloud authentication:**
+   ```bash
+   gcloud auth application-default login
+   ```
+
+## 📖 Usage
+
+### Interactive Mode
+
+Start the interactive assistant:
+
+```bash
+python app.py --interactive
+```
+
+Example interaction:
+```
+User > find a piece by Bach
+Assistant > I found "Prelude in C Major" by Bach. Would you like to know more?
+
+User > upload /path/to/sheet.png
+Assistant > Converting image to MusicXML...
+```
+
+### Single Query Mode
+
+```bash
+python app.py "find Chopin Prelude"
+```
+
+### File Upload
+
+```bash
+python app.py --file /path/to/music-sheet.png
+```
+
+### Playground Mode
+
+For experimentation and testing:
+
+```bash
+python playground.py
+```
+
+## 🏗️ Project Structure
+
+```
+sheet-reader-agent/
+├── agents/              # AI agents
+│   ├── music_assistant.py    # Main music assistant agent
+│   ├── library_agent.py      # Library management agent
+│   ├── extraction_agent.py   # Music extraction agent
+│   └── validation_agent.py  # Data validation agent
+├── tools/               # Tool functions
+│   ├── homr_tool.py          # HOMR image conversion
+│   ├── pdmx_tool.py          # PDMX database search
+│   ├── vertex_search_tool.py # Vertex AI Search
+│   └── library_manager.py    # Library file operations
+├── app.py               # Main application entry point
+├── playground.py        # Interactive playground
+├── requirements.txt     # Python dependencies
+└── README.md           # This file
+```
+
+## 🔧 Configuration
+
+### Google Cloud Setup
+
+1. **Enable required APIs:**
+   ```bash
+   gcloud services enable discoveryengine.googleapis.com
+   gcloud services enable aiplatform.googleapis.com
+   ```
+
+2. **Set up Vertex AI Search Datastore:**
+   - See [PDMX_DATASTORE_SETUP.md](./PDMX_DATASTORE_SETUP.md) for detailed instructions
+   - Or use the setup script:
+     ```bash
+     python setup_pdmx_datastore.py --project-id YOUR_PROJECT_ID
+     ```
+
+### PDMX Database
+
+Import PDMX data into your local library:
+
+```bash
+python create_pdmx_library.py --sample-size 1000
+```
+
+## 📚 Documentation
+
+- [Environment Setup](./ENV_SETUP.md) - Detailed environment configuration
+- [PDMX Datastore Setup](./PDMX_DATASTORE_SETUP.md) - Setting up Vertex AI Search
+- [HOMR Integration](./HOMR_INTEGRATION.md) - Image to MusicXML conversion
+- [Tools and Sub-Agents](./TOOLS_AND_SUB_AGENTS.md) - Architecture documentation
+- [Git Setup](./GIT_SETUP.md) - Repository and SSH configuration
+
+## 🎯 Key Capabilities
+
+### Music Sheet Conversion
+- Supports PNG, JPG, JPEG, PDF formats
+- Uses HOMR (Handwritten Optical Music Recognition) for accurate conversion
+- Outputs standard MusicXML format
+
+### Search Capabilities
+- **Local Search**: Fast search through imported PDMX database
+- **Cloud Search**: Semantic search via Vertex AI Search datastore
+- **Smart Suggestions**: Automatically suggests file upload when search fails
+
+### Library Management
+- Automatic metadata extraction (composer, key, tempo, measures)
+- User preference learning
+- Caching and deduplication
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 🔒 Security
+
+- **Never commit credentials**: All API keys and service account files are excluded via `.gitignore`
+- **Use environment variables**: Store sensitive data in `.env` files (not tracked by git)
+- **Rotate credentials**: If credentials are accidentally exposed, rotate them immediately
+
+## 📝 License
+
+This project is part of the Nesspectrum Solutions organization.
+
+## 🙏 Acknowledgments
+
+- [HOMR](https://github.com/fosfrancesco/homr) - Handwritten Optical Music Recognition
+- [PDMX Dataset](https://zenodo.org/records/15571083) - Public Domain MusicXML dataset
+- Google ADK - Agent Development Kit
+- Vertex AI - Google Cloud AI platform
+
+## 📞 Support
+
+For issues, questions, or contributions, please open an issue on GitHub.
+
+---
+
+**Made with ❤️ by Nesspectrum Solutions**
+
