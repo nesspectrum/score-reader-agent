@@ -65,7 +65,7 @@ An intelligent AI-powered music assistant that converts music sheet images to Mu
 Start the interactive assistant:
 
 ```bash
-python app.py --interactive
+python main.py --interactive
 ```
 
 Example interaction:
@@ -80,13 +80,22 @@ Assistant > Converting image to MusicXML...
 ### Single Query Mode
 
 ```bash
-python app.py "find Chopin Prelude"
+python main.py "find Chopin Prelude"
 ```
 
 ### File Upload
 
 ```bash
-python app.py --file /path/to/music-sheet.png
+python main.py --file /path/to/music-sheet.png
+```
+
+### Extraction Workflow Mode (Legacy)
+
+For the extraction workflow with audio playback:
+
+```bash
+python main.py /path/to/sheet.png --interactive
+python main.py /path/to/sheet.png --evaluate
 ```
 
 ### Playground Mode
@@ -105,13 +114,21 @@ sheet-reader-agent/
 │   ├── music_assistant.py    # Main music assistant agent
 │   ├── library_agent.py      # Library management agent
 │   ├── extraction_agent.py   # Music extraction agent
-│   └── validation_agent.py  # Data validation agent
+│   └── validation_agent.py   # Data validation agent
 ├── tools/               # Tool functions
 │   ├── homr_tool.py          # HOMR image conversion
 │   ├── pdmx_tool.py          # PDMX database search
 │   ├── vertex_search_tool.py # Vertex AI Search
-│   └── library_manager.py    # Library file operations
-├── app.py               # Main application entry point
+│   └── library_manager.py   # Library file operations
+├── utils/               # Utility scripts
+│   ├── check_api_key.py      # API key validation
+│   ├── create_pdmx_library.py # PDMX library import
+│   ├── setup_pdmx_datastore.py # Datastore setup
+│   └── ...                    # Other utility scripts
+├── tests/               # Test files
+│   ├── test_*.py             # Unit and integration tests
+│   └── test_*.json           # Test data files
+├── main.py              # Main application entry point
 ├── playground.py        # Interactive playground
 ├── requirements.txt     # Python dependencies
 └── README.md           # This file
