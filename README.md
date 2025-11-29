@@ -43,7 +43,7 @@ An intelligent AI-powered music assistant that converts music sheet images to Mu
    cp .env.example .env  # Create .env file
    # Edit .env with your credentials
    ```
-
+   
    Required environment variables:
    ```env
    GOOGLE_CLOUD_PROJECT=your-project-id
@@ -145,7 +145,7 @@ python create_pdmx_library.py --sample-size 1000
 ## 🎯 Key Capabilities
 
 ### Music Sheet Conversion
-- Supports PNG, JPG, JPEG, PDF formats
+- Supports PNG, JPG, JPEG formats
 - Uses HOMR (Handwritten Optical Music Recognition) for accurate conversion
 - Outputs standard MusicXML format
 
@@ -158,6 +158,10 @@ python create_pdmx_library.py --sample-size 1000
 - Automatic metadata extraction (composer, key, tempo, measures)
 - User preference learning
 - Caching and deduplication
+
+## 📚 Documentation
+
+For detailed project documentation including problem statement, architecture, and development details, see [PROJECT_DOCUMENTATION.md](./PROJECT_DOCUMENTATION.md).
 
 ## 📝 License
 
@@ -181,4 +185,3 @@ For issues, questions, or contributions, please open an issue on GitHub.
 ---
 
 **Made with ❤️ by Nesspectrum Solutions**
-
