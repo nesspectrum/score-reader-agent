@@ -1,7 +1,0 @@
-Processing file: resources/Bach_Prelude in C major, BWV 846.pdf
-User ID: test_user
-Processing file: resources/Bach_Prelude in C major, BWV 846.pdf
-Extracting with memory-enabled agent...
-Extracting notes from resources/Bach_Prelude in C major, BWV 846.pdf...
-Error during extraction: Either app or both app_name and agent must be provided.
-Failed to extract music data.
