@@ -54,6 +54,7 @@ library/
 memory/
 evaluations/
 voice_samples/
+resources/
 *.db
 agents.db
 
