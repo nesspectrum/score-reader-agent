@@ -206,10 +206,14 @@ This project is part of the Nesspectrum Solutions organization.
 
 ## 🙏 Acknowledgments
 
-- [HOMR](https://github.com/fosfrancesco/homr) - Handwritten Optical Music Recognition
-- [PDMX Dataset](https://zenodo.org/records/15571083) - Public Domain MusicXML dataset
-- Google ADK - Agent Development Kit
-- Vertex AI - Google Cloud AI platform
+This project builds upon excellent open-source work:
+
+- **[HOMR](https://github.com/liebharc/homr)** - Optical Music Recognition (OMR) software that transforms camera pictures of sheet music into machine-readable MusicXML format. HOMR employs segmentation techniques and transformer models to identify musical symbols and convert them to MusicXML.
+
+- **[PDMX](https://github.com/pnlong/PDMX/)** - Public Domain MusicXML dataset containing 250K+ public domain music scores. This project uses PDMX data for music search and library management.
+
+- **Google ADK** - Agent Development Kit for building AI agents
+- **Vertex AI** - Google Cloud AI platform
 
 ## 📞 Support
 
