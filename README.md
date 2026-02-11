@@ -1,6 +1,6 @@
 # 🎵 Score Reader Agent
 
-An intelligent AI-powered music assistant that converts music sheet images to MusicXML format, searches extensive music databases, and manages your digital music library using Google's Agent Development Kit (ADK).
+An intelligent AI-powered music assistant that converts music sheet images to MusicXML format, searches extensive music databases, and manages your digital music library using Google's Agent Development Kit (ADK) and Vertex AI.
 
 ## ✨ Features
 
