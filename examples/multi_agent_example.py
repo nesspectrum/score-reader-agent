@@ -1,5 +1,5 @@
 """
-Example: Using tools and sub-agents in the score_reader_agent system
+Example: Using tools and sub-agents in the score-reader-agent system
 Demonstrates:
 1. FunctionTools for validation and statistics
 2. Sub-agents for specialized tasks

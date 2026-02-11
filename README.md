@@ -23,8 +23,8 @@ An intelligent AI-powered music assistant that converts music sheet images to Mu
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:nesspectrum/score_reader_agent.git
-   cd score_reader_agent
+   git clone git@github.com:nesspectrum/score-reader-agent.git
+   cd score-reader-agent
    ```
 
 2. **Create virtual environment:**
@@ -92,7 +92,7 @@ python main.py --file /path/to/music-sheet.png
 ## 🏗️ Project Structure
 
 ```
-score_reader_agent/
+score-reader-agent/
 ├── agents/              # AI agents
 │   ├── music_assistant.py    # Main music assistant agent
 │   ├── library_agent.py      # Library management agent
