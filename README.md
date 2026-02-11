@@ -178,10 +178,3 @@ This project builds upon excellent open-source work:
 - **Google ADK** - Agent Development Kit for building AI agents
 - **Vertex AI** - Google Cloud AI platform
 
-## 📞 Support
-
-For issues, questions, or contributions, please open an issue on GitHub.
-
----
-
-**Made with ❤️ by Nesspectrum Solutions**
